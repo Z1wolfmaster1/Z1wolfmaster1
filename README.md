@@ -1,35 +1,6 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+<link rel="stylesheet" href="styles.css"/>
 
-  .skills {
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-    background-color: #0004;
-    border-radius: 5px;
-    padding: 10px 10%;
-    font-family: 'Fira Code', monospace;
-    width: 50%;
-  }
 
-  ul, li {
-    list-style: none;
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-  }
-
-  li {
-    padding-left: 10px;
-    flex-direction: row;
-  }
-
-  .learning {
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-  }
-</style>
 <div align="center">
 
 # Marcos Vinícius
