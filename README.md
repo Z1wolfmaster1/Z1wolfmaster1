@@ -102,4 +102,5 @@ English (Intermediate, read/write only)
     }
     </ul>
   </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Z1wolfmaster1&theme=onedark&margin-w=9&hide_border=true%22%3E" />
 </div>
