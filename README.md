@@ -43,6 +43,9 @@ English (Intermediate, read/write only)
           <li>
           <img src="https://img.shields.io/badge/Flutter-161f26?style=flat&logoColor=47bfff&logo=Flutter" />,
           </li>
+          <li>
+            <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white" />
+          </li>
           <ul>
             webFullStackDevelopment: [
               <li>
