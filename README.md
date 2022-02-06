@@ -32,6 +32,9 @@ English (Intermediate, read/write only)
         <ul>
           learning: [ 
           <li>
+          <img src="https://img.shields.io/badge/Golang-FFF?style=flat&logo=Go" />,
+          </li>
+          <li>
           <img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=Unreal-Engine" />,
           </li>
           <li>
