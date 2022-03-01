@@ -34,6 +34,8 @@ English (Intermediate, read/write only)
             </br>
     ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Golang-FFF?style=flat&logo=Go" />
             </br>
+    ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Elixir-451f5b?style=flat&logo=Elixir" />
+            </br>
     ⠀⠀⠀⠀⠀⠀],
                   </br>
             ⠀⠀⠀⠀⠀⠀webFullStackDevelopment: [
