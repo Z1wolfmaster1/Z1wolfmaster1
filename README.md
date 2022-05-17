@@ -12,14 +12,14 @@
   <img src="https://img.shields.io/badge/marcosvnm10@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:marcosvnm10@gmail.com"/>
 </a>
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Z1wolfmaster1&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&count_private=true)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=marcosvnmelo&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&count_private=true)
 
 </div>
 
 ---
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1wolfmaster1&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=11&hide=html)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvnmelo&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=11&hide=html)
 
 
 **Languages**
@@ -88,5 +88,5 @@ English (Intermediate, read/write only)
   </div>
   </br>
   </br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Z1wolfmaster1&theme=onedark&margin-w=9&hide_border=true&count_private=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=marcosvnmelo&theme=onedark&margin-w=9&hide_border=true&count_private=true">
 </div>
