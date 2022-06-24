@@ -32,9 +32,11 @@ English (Intermediate, read/write only)
           </br>
     ⠀⠀⠀⠀⠀⠀learning: [ 
             </br>
-    ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Golang-FFF?style=flat&logo=Go" />
+    ⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Java-F74141?style=flat&logo=Java" />
             </br>
-    ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Elixir-451f5b?style=flat&logo=Elixir" />
+    ⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Quarkus-FFFFFF?style=flat&logo=Quarkus" />
+            </br>
+    ⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Flutter-161f26?style=flat&logoColor=47bfff&logo=Flutter" />
             </br>
     ⠀⠀⠀⠀⠀⠀],
                   </br>
@@ -64,18 +66,17 @@ English (Intermediate, read/write only)
                   </br>
           ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logoColor=fff&logo=Docker" />
                   </br>
-          ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Java-F74141?style=flat&logo=Java" />
-                  </br>
           ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=Unreal-Engine" />
                   </br>
           ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Cocos_Creator_2D-55C2E1?style=flat&logoColor=000&logo=Cocos" />
                   </br>
           ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logoColor=fff&logo=C%2B%2B" />
                   </br>
-          ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Flutter-161f26?style=flat&logoColor=47bfff&logo=Flutter" />
-                  </br>
           ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white" />
                   </br>
+          ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Golang-FFF?style=flat&logo=Go" />
+                  </br>
+          ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Elixir-451f5b?style=flat&logo=Elixir" />
       ⠀⠀⠀⠀⠀⠀],
             </br>
       ⠀⠀⠀⠀⠀⠀barelyRemembers: [
