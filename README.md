@@ -32,7 +32,7 @@ English (Intermediate, read/write only)
           </br>
     ⠀⠀⠀⠀⠀⠀learning: [ 
             </br>
-    ⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Java-F74141?style=flat&logo=Java" />
+    ⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Java-F74141?style=flat&logo=OpenJDK" />
             </br>
     ⠀⠀⠀⠀⠀⠀⠀<img src="https://img.shields.io/badge/Quarkus-FFFFFF?style=flat&logo=Quarkus" />
             </br>
