@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosvnmelo&theme=onedark&count_private=true" alt="marcosvnmelo" /></a> </p>
 
-- 🌱 I’m currently learning **<img src="https://img.shields.io/badge/Quarkus-FFFFFF?style=flat&logo=Quarkus" />**
-
 - 💬 Ask me about **[<img src="https://img.shields.io/badge/React-22272e?style=flat&logoColor=61DBFB&logo=React" />, <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white" />]**
 
 - 📫 How to reach me **suiciniv2016+github@outlook.com**
